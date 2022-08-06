@@ -8,7 +8,8 @@ This is the GitHub README of a vigorously lazy deadbeat with matured immaturity.
 
 - ⛓️ Fun fact:
 
-    > `git symbolic-ref refs/heads/master refs/heads/main` — if you're uncomfortable in a modern repository with your oldschool habits :) – [kolypto]
+    > `git symbolic-ref refs/heads/master refs/heads/main` — if you're uncomfortable in a modern repository with your oldschool habits :)
+    > – [kolypto]
 
 - 📝 I keep a weblog via git commit log.
 
@@ -17,7 +18,5 @@ This is the GitHub README of a vigorously lazy deadbeat with matured immaturity.
     cd weakish
     git log
     ```
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=weakish&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
 [kolypto]: https://stackoverflow.com/questions/549920/is-it-possible-to-alias-a-branch-in-git#comment122569756_549949
