@@ -2,16 +2,16 @@
 
 This is the GitHub README of a vigorously lazy deadbeat with matured immaturity.
 
-- 💬 Ask me about anything by sending a pull request to edit this README file.
+- Ask me about anything by sending a pull request to edit this README file. 💬
 
-- 😄 Pronouns: it/it.
+- Pronouns: it/it. 😄 
 
-- ⛓️ Fun fact:
+- Fun fact: ⛓️
 
     > `git symbolic-ref refs/heads/master refs/heads/main` — if you're uncomfortable in a modern repository with your oldschool habits :)
     > – [kolypto]
 
-- 📝 I keep a weblog via git commit log.
+- I keep a weblog via git commit log. 📝
 
     ```sh
     git clone git@github.com:weakish/weakish.git
