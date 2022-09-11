@@ -2,12 +2,12 @@
 
 - Ask me about anything by sending a pull request to edit this README file. 💬
 
-- Pronouns: it/it. 😄 
+- Pronouns: `*/*`. 😄 
 
 - Fun fact: ⛓️
 
     > `git symbolic-ref refs/heads/master refs/heads/main` — if you're uncomfortable in a modern repository with your oldschool habits :)
-    > – [kolypto]
+    > –- [kolypto]
 
 - I keep a weblog via git commit log. 📝
 
