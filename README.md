@@ -1,6 +1,4 @@
-### Hi there 👋
-
-This is the GitHub README of a vigorously lazy deadbeat with matured immaturity.
+### Hi there! 👋
 
 - Ask me about anything by sending a pull request to edit this README file. 💬
 
