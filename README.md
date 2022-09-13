@@ -4,11 +4,6 @@
 
 - Pronouns: `*/*`. 😄 
 
-- Fun fact: ⛓️
-
-    > `git symbolic-ref refs/heads/master refs/heads/main` — if you're uncomfortable in a modern repository with your oldschool habits :)
-    > –- [kolypto]
-
 - I keep a weblog via git commit log. 📝
 
     ```sh
@@ -17,4 +12,14 @@
     git log
     ```
 
-[kolypto]: https://stackoverflow.com/questions/549920/is-it-possible-to-alias-a-branch-in-git#comment122569756_549949
+```java
+interface Factᴵ { int apply(int n); }
+class NClosure implements Factᴵ {
+  Fact f;
+  NClosure(Fact _f) { f = _f; }
+  public int apply(int n) {
+    if (n == 0) {
+        return 1; } else {
+        return n * (f.apply(f)).apply(n - 1); }}}
+class Fact { Factᴵ apply(Fact f) { return new NClosure(f); }}
+```
